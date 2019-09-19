@@ -1,0 +1,55 @@
+HCL and Verizon India Interview Questions
+Testing
+What is Testing
+What is Quality
+What metric do you use to check the quality in Deliverables?
+How many test cases can write for a username text box on Web Page? which should accept Email with alphanumeric
+
+Cucumber
+What is Feature file
+How do you run Feature file in Cucumber?
+What are the gherkin language commands?
+What is scenario Outline what is the difference between Scenario and Scenario Outline
+How BDD used POM concept in Automation
+How Data-driven approach can implement using BDD.
+
+Java Coding
+Find duplicate words\Strings in Array
+WP to Separate Digits, Letters and Special Characters from a given string
+WP to find the biggest value in Array
+WP to find repeated elements in Array
+When to use interface in Selenium. Same Abstract Class.
+What is Polymorphism how to do you implement using Selenium Web driver?
+WP to find given string is palindrome using Recursive method. 
+WP to generate Fibonacci numbers for less than a given number.
+How do you get a letter from a given string?
+How do you get Capital letters from given String the position of letters are keep changing?
+
+Selenium 
+What is Stale Element exception when do expect the exception.
+How do you get a list of elements from drop down list?
+How many way's Elements address can be recorded?
+What is Synchronization in Selenium? How do you achieve
+How do you communicate to node system from HUB? How your code will be delivered to Node.
+How do you invoke browser in Node system?
+What is wrapper Class?
+Why WebDriver is an Interface.
+Why Firefox is slower than chrome what is the core reason.
+How Selenium Web driver talks to the browser.
+What is the use of Chrome.exe even chrome is installed in the system?
+Why some test execution fails when working with different browser's which were successful using another browser.
+
+REST API
+What is REST API
+What is the difference between REST API and Soap?
+How to Automate REST API in Selenium.
+Does REST API is part of selenium?
+What is the status code of 200 and 201?
+What is POJO Class what is the use of it?
+Tell me all 4XX series status codes.
+How do you ensure request is posted in REST API?
+What is header in REST API Request? what are the details user need to pass in Header?
+How do read JSON Response?
+
+General 
+There are 1000 automated Test cases how to ensure test execution performance improve in future run compare to the first run.
